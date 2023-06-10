@@ -1,2 +1,0 @@
-# TargIt
-A fps game.
